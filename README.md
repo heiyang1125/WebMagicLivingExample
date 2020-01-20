@@ -1,0 +1,3 @@
+# WebMagicLivingExample
+WebMagic实战：爬取51找工作的工作信息至数据库/20200120
+主要是对51找工作网站的职业信息爬取实例
